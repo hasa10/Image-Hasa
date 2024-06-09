@@ -1,0 +1,13 @@
+
+.image-List{
+    columns:3 300px;
+    column-gap: 10px;
+}
+img{
+    width: 100%;
+    margin-bottom: 10px;
+}
+h1{
+    font-style: italic;
+    background-color: aqua;
+}
